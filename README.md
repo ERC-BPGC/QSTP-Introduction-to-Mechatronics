@@ -17,9 +17,9 @@ Prefer PDFs over Markdown? View the course library [here](https://drive.google.c
 ## Software Requirements
 
 1. [TinkerCAD](https://www.tinkercad.com/)​ is an online, free for all circuit simulator.
-2. [MATLAB and Simulink](https://in.mathworks.com/downloads/)​ (Mathworks products) have free students’ licenses for afew universities. If you are unable to download large files, you may use theonline version of MATLAB, and Xcos instead of Simulink.
+2. [MATLAB and Simulink](https://in.mathworks.com/downloads/)​ (Mathworks products) have free students’ licenses for afew universities. If you are unable to download large files, you may use the online version of MATLAB, and Xcos instead of Simulink.
 3. If your university/college does not have a free student’s license available forMathworks products, you can use alternative softwares like [​Scilab and Xcos](https://www.scilab.org/download/6.0.2)​.
-4. [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators)​ also has free student’s access here
+4. [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators)​ also has free student’s access here.
 
 
 ### Contributors
